@@ -1,0 +1,5 @@
+{
+    "todo-tree.general.showIconsInsteadOfTagsInStatusBar": true,
+    "todo-tree.general.debug": true,
+    "todo-tree.general.enableFileWatcher": true
+}
